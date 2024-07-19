@@ -19,23 +19,9 @@ $~$
 Jeg læser en kandidatgrad i økonomi (cand.polit.) ved Københavns Universitet (forventet afsluttet vinter 2025). Siden starten af 2023 har jeg arbejdet hos IQVIA Nordics både M\&A, analyser samt Ad Hoc opgaver. Jeg har erfaring i markedsundersøgelse, data behandling, beslutnings- og strategisk analyse samt finansiel modellering. Jeg er vant til at arbejde i teams og på ledelsesniveau, hvilket har givet mig evnen til at levere klart og præcist materiale. Jeg trives i dynamiske miljøer, er kendt for et åbent sind og evnen til at tilpasse mig nye udfordringer. Udover arbejde og studier er jeg en ivrig sejler og holder af gør-det-selv projekter.
 $~$
 
-<font style="color: #386398FF;">$$\textbf{{\Large{A}}RBEJDE og {\Large{E}}RFARING}$$</font>
+<font style="color: #386398FF;">$$\textbf{{\Large{A}}RBEJDE & {\Large{E}}RFARING}$$</font>
 ***
-$$\small\begin{array}{l|l}
-2024~– \text{ d.d.} & \textbf{Student Assistant} \mid \text{IQVIA Nordics} \mid \text{København} \\
-&\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse} \\\\
-2023 – 2024 & \textbf{M\&A Student Analyst} \mid \text{IQVIA Nordics} \mid \text{København} \\
-&\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse,} \\
-&\text{og strategisk overvejelser. Assisterer i kritiske forretningsbeslutninger, og støtter} \\
-&\text{IQVIA Nordics strategiske ekspansion.}\\\\
- 2020 – 2023 & \textbf{Assistent/Konsulent} \mid \text{Privat Stakeholder} \mid \text{København} \\
-&\text{Finansielle modeller og ad hoc-opgaver, de fleste kan ikke deles på grund af diskretion.} \\\\
-2019 – 2020 & \textbf{Business Analyst Intern} \mid \text{Circle Gas Ltd.} \mid \text{London}\\
- &\text{Som analytiker i CEO's kontor omfattede mine ansvarsområder at udarbejde} \\
- &\text{præsentationer til bestyrelsesmøder, budgetter, analysere demografi og levere}\\
- &\text{strategiske data til støtte for ledelsesmæssige beslutninger.}
-\end{array}
-$$
+$$\small\begin{array}{l|l} 2024~– \text{ d.d.} & \textbf{Student Assistant} \mid \text{IQVIA Nordics} \mid \text{København} \\ &\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse} \\\\ 2023 – 2024 & \textbf{M\&A Student Analyst} \mid \text{IQVIA Nordics} \mid \text{København} \\ &\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse,} \\ &\text{og strategisk overvejelser. Assisterer i kritiske forretningsbeslutninger, og støtter} \\ &\text{IQVIA Nordics strategiske ekspansion.}\\\\  2020 – 2023 & \textbf{Assistent/Konsulent} \mid \text{Privat Stakeholder} \mid \text{København} \\ &\text{Finansielle modeller og ad hoc-opgaver, de fleste kan ikke deles på grund af diskretion.} \\\\ 2019 – 2020 & \textbf{Business Analyst Intern} \mid \text{Circle Gas Ltd.} \mid \text{London}\\  &\text{Som analytiker i CEO's kontor omfattede mine ansvarsområder at udarbejde} \\  &\text{præsentationer til bestyrelsesmøder, budgetter, analysere demografi og levere}\\  &\text{strategiske data til støtte for ledelsesmæssige beslutninger.} \end{array}$$
 $~$
 
 <font style="color: #386398FF;">$$\textbf{{\Large{U}}DDANNELSE  \& {\Large{K}}URSER}$$</font>
