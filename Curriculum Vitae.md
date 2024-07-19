@@ -1,30 +1,34 @@
 ***
 <font size=6><font style="color: #386398FF;">$${\Huge{\textbf{C}}}\textbf{URRICULUM } {\Large{\textbf{V}}}\textbf{ITAE}$$</font></font>
 <span class="leftimg"><span class="smallimg"> ![[CV2.png|500]]</span></span>
+
 **Navn**: Sebastian Hejberg Ingesen $\quad\quad$ (Juni 24 år)
-$~$
+
+
 **Sprog**: Dansk (modersmål) og Engelsk 
-$~$
+
+
 **Telefon**: <a href="tel:004531341448">+45 31 34 14 48</a> og <a href="tel:00447503625559">+44 7503 625559</a>
-$~$
+
+
 **Email**: sebastianhejberg@gmail.dk
-$~$
+
+
 **Adresse**: 1364 (København K)
-$$~$$
-$~$
 
 
-<font style="color: #386398FF;">$${\large{\textbf{P}}}\textbf{ROFIL}$$</font>
+
+
+$${\large{\textbf{P}}}\textbf{ROFIL}$$
 ***
 Jeg læser en kandidatgrad i økonomi (cand.polit.) ved Københavns Universitet (forventet afsluttet vinter 2025). Siden starten af 2023 har jeg arbejdet hos IQVIA Nordics både M\&A, analyser samt Ad Hoc opgaver. Jeg har erfaring i markedsundersøgelse, data behandling, beslutnings- og strategisk analyse samt finansiel modellering. Jeg er vant til at arbejde i teams og på ledelsesniveau, hvilket har givet mig evnen til at levere klart og præcist materiale. Jeg trives i dynamiske miljøer, er kendt for et åbent sind og evnen til at tilpasse mig nye udfordringer. Udover arbejde og studier er jeg en ivrig sejler og holder af gør-det-selv projekter.
-$~$
 
 $$\textbf{{\Large{A}}RBEJDE  {\Large{E}}RFARING}$$
 
 ***
 
 $$\small\begin{array}{l|l} 2024~– \text{ d.d.} & \textbf{Student Assistant} \mid \text{IQVIA Nordics} \mid \text{København} \\ &\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse} \\\\ 2023 – 2024 & \textbf{M\&A Student Analyst} \mid \text{IQVIA Nordics} \mid \text{København} \\ &\text{Del af M\&A teamet, med fokus på markedsundersøgelser, finansiel analyse,} \\ &\text{og strategisk overvejelser. Assisterer i kritiske forretningsbeslutninger, og støtter} \\ &\text{IQVIA Nordics strategiske ekspansion.}\\\\  2020 – 2023 & \textbf{Assistent/Konsulent} \mid \text{Privat Stakeholder} \mid \text{København} \\ &\text{Finansielle modeller og ad hoc-opgaver, de fleste kan ikke deles på grund af diskretion.} \\\\ 2019 – 2020 & \textbf{Business Analyst Intern} \mid \text{Circle Gas Ltd.} \mid \text{London}\\  &\text{Som analytiker i CEO's kontor omfattede mine ansvarsområder at udarbejde} \\  &\text{præsentationer til bestyrelsesmøder, budgetter, analysere demografi og levere}\\  &\text{strategiske data til støtte for ledelsesmæssige beslutninger.} \end{array}$$
-$~$
+
 
 <font style="color: #386398FF;">$$\textbf{{\Large{U}}DDANNELSE  \& {\Large{K}}URSER}$$</font>
 ***
