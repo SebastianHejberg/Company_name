@@ -19,7 +19,7 @@ $~$
 Jeg læser en kandidatgrad i økonomi (cand.polit.) ved Københavns Universitet (forventet afsluttet vinter 2025). Siden starten af 2023 har jeg arbejdet hos IQVIA Nordics både M\&A, analyser samt Ad Hoc opgaver. Jeg har erfaring i markedsundersøgelse, data behandling, beslutnings- og strategisk analyse samt finansiel modellering. Jeg er vant til at arbejde i teams og på ledelsesniveau, hvilket har givet mig evnen til at levere klart og præcist materiale. Jeg trives i dynamiske miljøer, er kendt for et åbent sind og evnen til at tilpasse mig nye udfordringer. Udover arbejde og studier er jeg en ivrig sejler og holder af gør-det-selv projekter.
 $~$
 
-$$\textbf{{\Large{A}}RBEJDE \& {\Large{E}}RFARING}$$
+$$\textbf{{\Large{A}}RBEJDE  {\Large{E}}RFARING}$$
 
 ***
 
